@@ -8,6 +8,8 @@
 .httr-oauth
 .Rproj.user
 .DS_Store
+.ariadne*
+
 
 # CSV files
 *.csv
