@@ -1,5 +1,7 @@
 # Paul and the Patristics
 
-This repository houses the code for an interactive Shiny app which visualises the work of Early Christian writers (the Patristics and Paul).
+This interactive Shiny app provides an interactive database for the University of Oxford [Paul and Patristics project](https://paulandpatristics.web.ox.ac.uk).
 
-The academic point of contact for this work is Professor Jennifer Strawbridge (http://orcid.org/0000-0002-4259-4236)
+The academic contact for this work is is (Prof. Jennifer Strawbridge)[http://orcid.org/0000-0002-4259-4236]
+
+This code has been deposited on Figshare: http://doi.org/10.6084/m9.figshare.5537809
