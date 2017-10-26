@@ -24,9 +24,6 @@ navbarPage(
            # highchartOutput("writer_viz_texts")
            uiOutput("writer_viz_hc_UI")
            # uiOutput("writer_viz_ggplot2_UI")
-           )
-  
-  
-  
-  
+           ),
+  collapsible = TRUE
 )
