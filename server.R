@@ -82,6 +82,7 @@ shinyServer(function(input, output, session) {
         colnames = headers_main_table$column.headings,
         extensions = c('Scroller'),
         selection = 'none',
+        filter = 'top',
         escape = FALSE,
         options = list(
           pageLength = 10,
